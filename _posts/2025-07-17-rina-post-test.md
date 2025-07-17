@@ -3,7 +3,6 @@ layout: post
 title: Post Test
 categories: test
 ---
-<pre>
 
 Hi, im checking out jekyll
 -
@@ -20,6 +19,7 @@ Hi, im checking out jekyll
 
 
 - nesting
+<pre>
     nest
         nest
             nest
