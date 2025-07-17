@@ -1,1 +1,3 @@
 # blog
+
+checking out jekyll
